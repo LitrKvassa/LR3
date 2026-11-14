@@ -47,19 +47,19 @@
 
 ### Анимация
 
-<img width="800" height="800" alt="animation" src="https://github.com/user-attachments/assets/44d16646-9cd3-4fb3-be20-3f109a812bb7" />
+<img width="800" height="800" alt="animation" src="https://github.com/user-attachments/assets/5aa3819b-8cba-4938-a16b-24698984823c" />
 
 ### График сравнения СКС эксперимента с эталоном
 
-<img width="1360" height="850" alt="msd" src="https://github.com/user-attachments/assets/7ac4ce3f-8922-4123-97a8-d236d7a00c50" />
+<img width="1360" height="850" alt="msd" src="https://github.com/user-attachments/assets/5be2d806-2062-4cc6-93c4-c52332b0ed95" />
 
 ### Гистограммы сравнения распределений конечных X, Y эксперимента с эталоном
 
-<img width="2040" height="765" alt="histograms" src="https://github.com/user-attachments/assets/6e5a94c4-a3f2-4c6b-85e6-0991b89b129f" />
+<img width="2040" height="765" alt="histograms" src="https://github.com/user-attachments/assets/a90a33cd-d511-46b2-b35d-f1069c1caa93" />
 
 ### Результирующее положение частиц
 
-<img width="1530" height="1360" alt="trajectories" src="https://github.com/user-attachments/assets/e7543722-fc5c-4468-a070-8acd7b6791f0" />
+<img width="1530" height="1360" alt="trajectories" src="https://github.com/user-attachments/assets/cf9fbe0a-f3e6-43dc-afef-c1e36b9fec99" />
 
 ## Ограничения
 
