@@ -75,7 +75,7 @@ def plot_histograms(coords, folder):
     pdf = np.exp(-0.5 * (xgrid / sigma) ** 2) / (sigma * np.sqrt(2 * np.pi))
     fig, axes = plt.subplots(1, 2, figsize=(12, 4.5))
     for axis, j, label in zip(axes, (0, 1), ('X', 'Y')):
-        axis.hist(final[:, j], bins='auto', density=True, alpha=0.65, label='Монте-Карло')
+        axis.hist(final[:, j], bins='auto', density=True, alpha=0.65, label='Моделирование')
         axis.plot(xgrid, pdf, 'k-', lw=2, label='Теория')
         axis.set(xlabel=label, ylabel='Плотность вероятности', title=f'Распределение {label}')
         axis.grid(alpha=0.25)
